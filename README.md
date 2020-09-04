@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Ifesinachi, studied Computer Engineering, a Self-taught Developer, Gamer and an AI & Cyber Sec Enthusiast.
+
+- 🔭 I’m currently working on calvarycrystal.org website.
+- 🌱 I’m currently learning kotlin on hyperskill.org
+- 🤝 I’m looking to collaborate on open source, AI and python projects.
+
+Welcome to my personal github account. 
