@@ -50,3 +50,13 @@ I am Ifesinachi, studied Computer Engineering, a Self-taught Developer, Gamer an
     <img align="center" 
     height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=compact" />
 </div>
+
+----
+
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/if3chi/if3chi)
+![pv](https://pageview.vercel.app/?github_user=if3chi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ifeabasi?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ifeabasi)
+
+</div>
