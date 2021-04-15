@@ -48,7 +48,7 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 ## &#x1f4c8; My GitHub Stats
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=if3chi&theme=radical&icon_color=d03e7c&show_icons=true0&hide=issues,stars" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=if3chi&theme=radical&icon_color=d03e7c&show_icons=true0&hide=issues" />
     <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=default" />
 </div>
 
