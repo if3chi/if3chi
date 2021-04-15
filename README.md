@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://twitter.com/ifeabasi" target="_blank">Ifesinachi</a> <img
-src="https://github.com/if3chi/if3chi/raw/master/img/Hi.gif" height="32" /></h1>
+src="https://github.com/if3chi/if3chi/raw/main/img/Hi.gif" height="32" /></h1>
 
 <br />
 
@@ -49,7 +49,7 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=if3chi&theme=radical&icon_color=d03e7c&show_icons=true0&hide=issues,stars" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=default" />
+    <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=default" />
 </div>
 
 ----
