@@ -1,10 +1,11 @@
 <h1 align="left">Hi there, I'm <a href="https://twitter.com/ifeabasi" target="_blank">Ifesinachi</a> <img
 src="https://github.com/if3chi/if3chi/raw/main/img/Hi.gif" height="32" /></h1>
 <br />
-----
-<div align="center">
+
 
 <h2>Glad to have you here!</h2> 
+
+<div align="center">
 
 ![pv](https://pageview.vercel.app/?github_user=if3chi)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ifeabasi?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ifeabasi)
