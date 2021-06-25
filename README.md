@@ -1,7 +1,18 @@
-<h1 align="center">Hi there, I'm <a href="https://twitter.com/ifeabasi" target="_blank">Ifesinachi</a> <img
+<h1 align="left">Hi there, I'm <a href="https://twitter.com/ifeabasi" target="_blank">Ifesinachi</a> <img
 src="https://github.com/if3chi/if3chi/raw/main/img/Hi.gif" height="32" /></h1>
-
 <br />
+----
+<div align="center">
+
+<h2>Glad to have you here!</h2> 
+
+![pv](https://pageview.vercel.app/?github_user=if3chi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ifeabasi?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ifeabasi)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/if3chi/if3chi) -->
+
+</div>
+
+---
 
 
 <!--
@@ -29,17 +40,17 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ---
 
-🧰 Toolbox
+🧰 Languages and Tools:
 
 <div align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Html 5 Logo" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html 5 Logo" width="50" height="50"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php Logo" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart Logo" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Photoshop Logo" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-7.svg" alt="Photoshop Logo" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="adobe-illustrator Logo" width="50" height="50"/>
 </div>
 
@@ -50,14 +61,8 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=if3chi&theme=radical&icon_color=d03e7c&show_icons=true0&hide=issues" />
     <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=default" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=if3chi&theme=radical" alt="if3chi" /></p>
 </div>
 
-----
+---
 
-<div align="center">
-
-![GitHub last commit](https://img.shields.io/github/last-commit/if3chi/if3chi)
-![pv](https://pageview.vercel.app/?github_user=if3chi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ifeabasi?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=ifeabasi)
-
-</div>
