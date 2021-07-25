@@ -68,39 +68,13 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 189 Contributions in the Year 2021
- > 
-> 📦 116.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-🌆 Daytime    76 commits     ███████░░░░░░░░░░░░░░░░░░   27.74% 
-🌃 Evening    86 commits     ███████░░░░░░░░░░░░░░░░░░   31.39% 
-🌙 Night      85 commits     ███████░░░░░░░░░░░░░░░░░░   31.02%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Wednesday    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
-Friday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Sunday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23%
+🌞 Morning    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
+🌆 Daytime    76 commits     ███████░░░░░░░░░░░░░░░░░░   27.54% 
+🌃 Evening    88 commits     ████████░░░░░░░░░░░░░░░░░   31.88% 
+🌙 Night      85 commits     ███████░░░░░░░░░░░░░░░░░░   30.8%
 
 ```
 
@@ -108,15 +82,10 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: UTC
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -135,10 +104,6 @@ Blade                    1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/if3chi/if3chi/main/charts/bar_graph.png) 
 
 
  Last Updated on 25/07/2021
