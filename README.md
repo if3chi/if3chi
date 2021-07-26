@@ -56,17 +56,6 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 </div>
 
 ---
-
-## &#x1f4c8; My GitHub Stats
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=if3chi&theme=radical&icon_color=d03e7c&show_icons=true0&hide=issues" />
-    <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=default" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=if3chi&theme=radical" alt="if3chi" /></p>
-</div>
-
----
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -100,3 +89,15 @@ Windows                  1 hr 55 mins        ███████████�
 
  Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=if3chi&theme=radical&icon_color=d03e7c&show_icons=true0&hide=issues" />
+    <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if3chi&hide=html,kotlin&theme=radical&show_owner=true&layout=default" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=if3chi&theme=radical" alt="if3chi" /></p>
+</div>
+
+---
