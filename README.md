@@ -52,7 +52,7 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
     <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter Logo" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-7.svg" alt="Photoshop Logo" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="adobe-illustrator Logo" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="adobe-illustrator Logo" width="50" height="50"/>
 </div>
 
 ---
