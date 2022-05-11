@@ -74,18 +74,19 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     15 mins             ██████████████████████░░░   90.05% 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.95%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/05/2022 00:29:18 UTC
+ Last Updated on 11/05/2022 00:28:46 UTC
 <!--END_SECTION:waka-->
 
 ---
