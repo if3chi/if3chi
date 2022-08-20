@@ -57,7 +57,7 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -89,7 +89,7 @@ Linux                    1 hr 57 mins        ███████████�
 ```
 
 
- Last Updated on 19/08/2022 00:33:23 UTC
+ Last Updated on 20/08/2022 00:29:25 UTC
 <!--END_SECTION:waka-->
 
 ---
