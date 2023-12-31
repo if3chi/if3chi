@@ -73,18 +73,17 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 40 mins        ██████████████████████░░░   89.30 % 
-Binary                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2023 00:25:36 UTC
+ Last Updated on 31/12/2023 00:29:21 UTC
 <!--END_SECTION:waka-->
 
 ---
