@@ -57,7 +57,7 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2023%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -73,17 +73,19 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      7 mins              ████████████████████████░   95.30 % 
+Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              ████████████████████████░   95.30 % 
+Windows                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 
- Last Updated on 17/11/2024 00:40:13 UTC
+ Last Updated on 18/11/2024 00:39:03 UTC
 <!--END_SECTION:waka-->
 
 ---
