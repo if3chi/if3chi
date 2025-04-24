@@ -73,18 +73,17 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ```text
 💬 Programming Languages: 
-PHP                      1 hr 4 mins         █████████████████████████   99.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/04/2025 00:39:49 UTC
+ Last Updated on 24/04/2025 00:39:24 UTC
 <!--END_SECTION:waka-->
 
 ---
