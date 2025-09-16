@@ -73,19 +73,17 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ```text
 💬 Programming Languages: 
-Bash                     1 min               ██████████████████████░░░   87.31 % 
-D                        0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/09/2025 00:41:34 UTC
+ Last Updated on 16/09/2025 00:37:26 UTC
 <!--END_SECTION:waka-->
 
 ---
