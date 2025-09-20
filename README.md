@@ -57,10 +57,8 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2034%20mins-blue)
 
-
- Last Updated on 19/09/2025 00:39:26 UTC
+ Last Updated on 20/09/2025 00:36:26 UTC
 <!--END_SECTION:waka-->
 
 ---
