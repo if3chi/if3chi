@@ -57,8 +57,33 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2034%20mins-blue)
 
- Last Updated on 28/09/2025 00:43:30 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+🌆 Daytime                497 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌃 Evening                631 commits         ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌙 Night                  508 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/09/2025 00:40:28 UTC
 <!--END_SECTION:waka-->
 
 ---
