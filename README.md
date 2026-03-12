@@ -73,19 +73,18 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 57 mins       █████████████████████████   99.61 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+PHP                      12 mins             ████████████████████████░   97.32 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2026 00:54:11 UTC
+ Last Updated on 12/03/2026 00:51:29 UTC
 <!--END_SECTION:waka-->
 
 ---
