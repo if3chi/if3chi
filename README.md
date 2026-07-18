@@ -59,8 +59,32 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C624%20hrs%2054%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 17/07/2026 01:17:35 UTC
+```text
+🌞 Morning                215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+🌆 Daytime                484 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+🌃 Evening                603 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
+🌙 Night                  495 commits         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+PHP                      16 mins             █████████████████████░░░░   83.03 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+
+🔥 Editors: 
+VS Code                  20 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  20 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/07/2026 01:09:43 UTC
 <!--END_SECTION:waka-->
 
 ---
