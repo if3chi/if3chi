@@ -57,6 +57,8 @@ Having experience in the technologies listed in the 🧰**toolbox** below.
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C576%20hrs%2047%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -87,7 +89,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 01:15:02 UTC
+ Last Updated on 30/07/2026 01:08:29 UTC
 <!--END_SECTION:waka-->
 
 ---
